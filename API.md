@@ -509,3 +509,9 @@ curl -X GET "https://api.decenterai.dev/api/keys/info" \
 ### Response Caching
 
 The API implements caching with a 10-minute duration to improve performance. Cached responses are returned when available, ensuring fast response times.
+
+
+
+### Note
+
+ This API is currently in beta. New endpoints will be added regularly, and existing endpoints will receive ongoing improvements and optimizations.
